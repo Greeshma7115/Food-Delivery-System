@@ -29,5 +29,3 @@ This project simulates real-world food ordering functionality including restaura
 
 ---
 
-## 📂 Project Structure
-
